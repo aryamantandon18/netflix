@@ -1,0 +1,2 @@
+onChange((e)=> setName(e.target.value))
+ "proxy":"http://localhost:5000",    
